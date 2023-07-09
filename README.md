@@ -1,1 +1,1 @@
-# vaultwarden-traefik-letsencrypt-docker-compose
+# Vaultwarden with Let's Encrypt in a Docker Compose
